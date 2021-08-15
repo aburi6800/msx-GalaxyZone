@@ -31,6 +31,6 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/MSX-Gal
 
 ## More Information
 
-- Please refer to this [document](https://github.com/aburi6800/msx-blockbreaker/blob/main/documents/GalaxyZonepdf). (Japanese only)
+- Please refer to this [document](https://github.com/aburi6800/MSX-GalaxyZone/blob/master/documents/GalaxyZone.pdf). (Japanese only)
 
 - This program and other related files are licensed under terms of GPL (GNU General Public License). Changes, suggestions and improvement are welcomed.
