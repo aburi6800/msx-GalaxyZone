@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a simple block-busting game written in MSX-BASIC.
+Written in MSX-BASIC, this is a game where you control a missile to avoid asteroids and hit an alien mothership.
 
 ## Requirements
 
