@@ -1,6 +1,3 @@
-[ [Engligh](README.md) | [日本語](README.ja.md) ]
-
----
 # MSX-GalaxyZone
 
 <img src="image/01.png">
@@ -34,4 +31,6 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/MSX-Gal
 
 ## More Information
 
-- MIT License
+- Please refer to this [document](https://github.com/aburi6800/MSX-GalaxyZone/blob/master/documents/GalaxyZone.pdf). (Japanese only)
+
+- This program and other related files are licensed under terms of GPL (GNU General Public License). Changes, suggestions and improvement are welcomed.
