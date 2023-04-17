@@ -32,6 +32,6 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/MSX-Gal
 - Cursor Key / Control Pad : Missile Move
 - Space Key / A Button : Game Start, Missile acceleration
 
-## More Information
+## License
 
 - MIT License
