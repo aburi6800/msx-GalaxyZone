@@ -1,18 +1,22 @@
+[ [Engligh](README.md) | [日本語](README.ja.md) ]
+
+---
 # MSX-GalaxyZone
 
 <img src="image/01.png">
 
-## Overview
+## 概要
 
-Written in MSX-BASIC, this is a game where you control a missile to avoid asteroids and hit an alien mothership.
+ミサイルを操作して小惑星を避け、エイリアンの母船に命中させるゲームです。  
+MSX-BASICで作成しています。  
 
-## Requirements
+## 要件
 
-- MSX/2/2+/TurboR
+- MSX/2/2+/TurboR  
 
-## Run in WebMSX
+## WebMSXでの実行
 
-- Please access the following URL.
+- 以下のURLにアクセスしてください。  
 
 https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/MSX-GalaxyZone/raw/master/GalaxyZone.dsk&FAST_BOOT
 
@@ -20,17 +24,16 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/MSX-Gal
 
 <img src="image/02.png">
 
-- Take control of the missile and destroy the alien mothership.
-- It is a miss if the missile hits the asteroid, runs out of fuel, or misses the missile.
-- If you miss three times, the game is over.
+- ミサイルを操作して、エイリアンの母船を破壊しましょう。
+- ミサイルが小惑星に当たったり、燃料がなくなったり、ミサイルが外れたりすると失敗となります。
+- 3回失敗するとゲームオーバーになります。
 
-## Controls
+## 操作方法
 
-- Cursor Key / Control Pad : Missile Move
-- Space Key / A Button : Game Start, Missile acceleration
+- カーソルキー or コントロールパッド : ミサイル移動
+- スペースキー or トリガボタン : ゲームスタート, ミサイル前進
 
-## More Information
+## ライセンス
 
-- Please refer to this [document](https://github.com/aburi6800/MSX-GalaxyZone/blob/master/documents/GalaxyZone.pdf). (Japanese only)
-
-- This program and other related files are licensed under terms of GPL (GNU General Public License). Changes, suggestions and improvement are welcomed.
+- MITライセンスとします。  
+ソフトウェアは自由に扱って構いませんが、再頒布時に著作権表示とライセンス表示を含めてください。 また、作者や著作権者はいかなる責任も負いません。
